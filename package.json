@@ -1,0 +1,13 @@
+{
+  "name": "ffmpeg",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "cloedu@protonmail.ch",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "node-rtsp-stream": "^0.0.9"
+  }
+}
